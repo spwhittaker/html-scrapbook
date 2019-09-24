@@ -7,7 +7,14 @@ background-color:#50ff24;}
 /*th {
 text-align: center;}*/
 
+table {}
 thead {text-align: center;
-padding: 15px;}
+   }
 
-th {padding: 10px;}
+th, td, tr {border: 5px solid blueviolet;
+    }
+
+
+caption {color: #f5149e;
+font-family: 'Turret Road', sans-serif;
+font-size: 2em;}

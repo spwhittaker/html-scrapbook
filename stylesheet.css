@@ -1,0 +1,13 @@
+body {background-color: #FFF4ED;}
+
+h1 {color: red;
+font-family: monospace;
+background-color:#50ff24;}
+
+/*th {
+text-align: center;}*/
+
+thead {text-align: center;
+padding: 15px;}
+
+th {padding: 10px;}

@@ -23,4 +23,5 @@ font-size: 2em;}
 text-align: left;
 margin: 30px;}
 
-li .checkbox-list {list-style-type: none;}
+ul.checkbox-list {list-style-type: none;}
+li.checkbox-list {list-style-type: none;}

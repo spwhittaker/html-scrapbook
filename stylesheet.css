@@ -7,7 +7,6 @@ background-color:#50ff24;}
 /*th {
 text-align: center;}*/
 
-table {}
 thead {text-align: center;
    }
 
@@ -30,3 +29,21 @@ margin: 30px;}
 
 ul.checkbox-list {list-style-type: none;}
 li.checkbox-list {list-style-type: none;}
+
+.my-cool-form {display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   max-width: 700px;
+   
+ }
+ 
+ .input-div {display: inline-block;
+margin: 1em;
+height: 100px;}
+
+ .form-label {
+} 
+.form-input{float: right;
+width: 30%;}
+
+.form-button {width: 40%;}

@@ -15,7 +15,8 @@ th, td, tr {border: 5px solid blueviolet;
     }
 
 code {background-color:#ff808a;
-   border-radius: 10px;}
+   border-radius: 10px;
+   display: block;}
 
 caption {color: #f5149e;
 font-family: 'Turret Road', sans-serif;

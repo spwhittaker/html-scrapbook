@@ -29,7 +29,8 @@ margin: 30px;}
 
 ul.checkbox-list {list-style-type: none;
 list-style-position: outside;}
-li.checkbox-list {list-style-type: none;}
+li.checkbox-list {list-style-type: none;
+   list-style-position: outside;}
 
 .my-cool-form {display: flex;
    flex-direction: column;
@@ -48,3 +49,5 @@ height: 100px;}
 width: 30%;}
 
 .form-button {width: 40%;}
+table {border-collapse: collapse;}
+td, th {padding: 5px;}
